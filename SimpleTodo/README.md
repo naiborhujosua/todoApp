@@ -31,8 +31,19 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 Describe any challenges encountered while building the app.
 
-
 *Building good UI/UX and implementing functional application for solving real problem surrounding us*
+
+## Project Analysis
+
+As part of your pre-work submission, please reflect on the app and answer the following questions below:
+
+**Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
+
+**Answer:** [I think Android development has been leading in the era of mobile first. The way of opening application all the time is using android app. Most of the users around thee world are using android and this is the opportunity for making impact through solving some real problem surrounding us].
+
+**Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
+
+**Answer:** [ArrayAdapet is the class provided by Android Framework for manipulating data. adapter is extremely important because it reduce the usage of memory because if there is a new data it will be created from the old one. The purpose of convertView as parameter in the getView is to reuse the old object for manipulating data with the new one].
 
 ## License
 

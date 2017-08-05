@@ -43,7 +43,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** ArrayAdapet is the class provided by Android Framework for manipulating data. adapter is extremely important because it reduce the usage of memory because if there is a new data it will be created from the old one. The purpose of convertView as parameter in the getView is to reuse the old object for manipulating data with the new one.
+**Answer:** ArrayAdapter is the class provided by Android Framework for manipulating data. adapter is extremely important because it reduce the usage of memory because if there is a new data it will be created from the old one. The purpose of convertView as parameter in the getView is to reuse the old object for manipulating data with the new one.
 
 ## License
 

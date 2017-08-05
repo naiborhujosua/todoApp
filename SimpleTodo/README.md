@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='todoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='todoapp.gif' title='Gif Walkthrough' width='' alt='GIF Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
